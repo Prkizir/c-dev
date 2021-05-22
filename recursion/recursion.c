@@ -2,7 +2,7 @@
 
 void fun(int n){
   if(n > 0){
-    printf("%d ", n);
+    printf("%d \n", n);
     fun(n - 1);
   }
 }
