@@ -1,0 +1,40 @@
+Introduction:
+-------------------------------------------~
+Topics ->                                  |
+                                           |
+-> Data Structures        -> Algorithms    |
+Arrays                    Recursion        |
+Matrices                  Sorting          |
+Linked List                                |
+                                           |
+Stack                                      |
+Queues                                     |
+Trees                                      |
+Graph                                      |
+Hashing                                    |                       Main Memory
+-------------------------------------------~               ---------------------------
+-------------------------------------------~       Heap   |                           |
+Arrays:                                    |              |                           |
+                                           |              |                           |
+Collection of similar data elements.       |              |                           |
+                                           |               ---------------------------
+Declare Array:                             |              |                           |
+                                           |              |                           |
+int a[5];  A[ | | | | ]                    |       Stack  |                           |
+             0 1 2 3 4                     |              |                           |
+                                           |              |                           |
+A[0] = 27                                  |              |                           |
+A[1] = 10                                  |               ---------------------------
+                                           |              |                           |
+int main(){                                |       Main   |                           |
+  int A[5];                                |              |    A[ | | | | ]           |
+}                                          |              |                           |
+                                           |              |                           |
+                                           |               ---------------------------
+                                           |       Code   |    main                   |
+                                           |      Section |      ____                 |
+                                           |              |      ____                 |
+                                           |              |      ____                 |
+                                           |              |      ____                 |
+                                           |               ---------------------------
+                                           |
